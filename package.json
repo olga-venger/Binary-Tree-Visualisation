@@ -5,7 +5,7 @@
   "dependencies": {
     "babel": "^6.23.0",
     "d3": "^5.14.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
